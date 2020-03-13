@@ -1,13 +1,14 @@
 Package: HMMRATACData
 Title: HMMRATACData - ATACSeq data and pre-computed data for the HMMRATAC
-package
-Description: Provides the data for examples and vignettes in the HMMRATAC
-package. Contains
-Version: 0.0.1
-License: GPL-3
-Encoding: UTF-8
+    package
+Version: 0.0.2
 Author: Daniel Van Twisk
 Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Description: Provides the data for examples and vignettes in the HMMRATAC
+    package. Contains
 biocViews: Homo_sapiens_Data
 Depends: R (>= 3.5.0)
+Suggest: knitr
+License: GPL-3
+Encoding: UTF-8
 RoxygenNote: 6.1.1
