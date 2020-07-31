@@ -1,7 +1,7 @@
 Package: HMMRATACData
 Title: HMMRATACData - ATACSeq data and pre-computed data for the HMMRATAC
     package
-Version: 0.0.3
+Version: 0.99.0
 Author: Daniel Van Twisk
 Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
 Description: Provides the data for examples and vignettes in the HMMRATAC
